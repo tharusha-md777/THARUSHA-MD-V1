@@ -18,7 +18,7 @@
 
 
 ## HELPERS
-[![SHADOW](https://telegra.ph/file/1cacb07896ee14aa5920b.jpg?size=80)](https://github.com/dgxeon) | [![CHAMA](https://telegra.ph/file/1046fee52c7a14d556793.jpg?size=100)](https://github.com/fantox001)
+[![SHADOW](https://i.ibb.co/ZRLFnV6m/Tharusha-Md.jpg?size=80)](https://github.com/fantox001) | [![CHAMA](https://i.ibb.co/ZRLFnV6m/Tharusha-Md.jpg?size=80)](https://github.com/fantox001)
 |----|----
 [SHADOW](https://wa.me/94767898887) | [CHAMA](https://wa.me/+94757309293)
 Code helper, Bug Fixes, Modules  | Code helper
