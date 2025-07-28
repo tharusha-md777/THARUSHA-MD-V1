@@ -18,7 +18,7 @@
 
 
 ## HELPERS
-[![SHADOW](https://i.ibb.co/ZRLFnV6m/Tharusha-Md.jpg?size=80)](https://github.com/fantox001) | [![CHAMA](https://i.ibb.co/ZRLFnV6m/Tharusha-Md.jpg?size=80)](https://github.com/fantox001)
+[![SHADOW](https://i.ibb.co/d4xDxnr4/Tharusha-Md.jpg?size=80)](https://github.com/fantox001) | [![CHAMA](https://i.ibb.co/ZRLFnV6m/Tharusha-Md.jpg?size=80)](https://github.com/fantox001)
 |----|----
 [SHADOW](https://wa.me/94767898887) | [CHAMA](https://wa.me/+94757309293)
 Code helper, Bug Fixes, Modules  | Code helper
