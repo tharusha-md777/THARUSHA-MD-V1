@@ -26,8 +26,6 @@
 </a>
 <br> 
 
----
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -40,18 +38,18 @@ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 🪀 WHATSAPP CHANNEL 
+## 🚀 WHATSAPP CHANNEL 
 STAY WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
 [![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9LTRHInlqISdCfln45)
 
-## 🪀 WHATSAPP GROUP
+## 🫂 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
 [![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/EwQlI3zfvDwEnf71XTtpxl?mode=ac_t)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 
-## THANK FOR VISIT GIT HUB REPO ❤️‍🔥
+## THANK FOR VISIT THARUSHA-MD OFFICIAL GIT HUB REPO ❤️‍🔥
 
 ------
