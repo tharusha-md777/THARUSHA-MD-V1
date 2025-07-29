@@ -2,29 +2,56 @@
   </p>
 <a>
 
-<div align="center">
-  <a><img src='https://i.ibb.co/PvcJxXpF/Tharusha-Md.jpg'/></a>
-<a><img 
-</div>
+  ### BOT VERSION 1.0.0
 
-<h1 align="center">Hi 👋, I'm THARUSHA-MD V1 🤩</h1>
-<h3 align="center">Sri lankan best multi device usefull whatsapp bot creared by Mr.Tharusha sandipa.🇱🇰</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha-md777&label=Profile%20views&color=0e75b6&style=flat" alt="tharushamd" /> </p>
+<a><img src='https://i.ibb.co/PvcJxXpF/Tharusha-Md.jpg'/></a>
 
-<h3 align="left">PAIR CODE 01</h3>
-  <a align="left" href='https://tharushamd.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/DEPLOY-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tharusha sandipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha sandipa" height="30" width="40" /></a>
-</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## HELPERS
-[![SHADOW](https://i.ibb.co/d4xDxnr4/Tharusha-Md.jpg?size=80)](https://github.com/fantox001) | [![CHAMA](https://i.ibb.co/4nVfnZFL/Tharusha-Md.jpg?size=80)](https://github.com/fantox001)
-|----|----
-[SHADOW](https://wa.me/94767898887) | [CHAMA](https://wa.me/+94757309293)
-Code helper, Bug Fixes, Modules  | Code helper
+
+
+### 1. 𐃁FORK THIS REPOSITORY𐃁
+
+`FORK AND STAR ⭐ IF YOU LIKE THIS BOT`
+
+  <a href="https://github.com/tharusha-md777/THARUSHA-MD-V1/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. 𐃁GET SESSION ID𐃁 
+
+<a href='https://tharushamd.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+---
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## BOT OWNER 👤
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME
+
+<p align="">
+<a href='https://wa.me/+94740326138?text=*Hye+THARUSHA+MD+BOT+OWNER👤🚀' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 🪀 WHATSAPP CHANNEL 
+STAY WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9LTRHInlqISdCfln45)
+
+## 🪀 WHATSAPP GROUP
+JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/EwQlI3zfvDwEnf71XTtpxl?mode=ac_t)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+---
+
+# THANK FOR VISIT GIT HUB REPO ❤️‍🔥
+
+------
