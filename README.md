@@ -2,9 +2,9 @@
   </p>
 <a>
 
-  ### BOT VERSION 1.0.0
+  # BOT VERSION 1.0.0
 
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a><img src='https://i.ibb.co/PvcJxXpF/Tharusha-Md.jpg'/></a>
 
@@ -13,13 +13,13 @@
 
 
 
-### 1. 𐃁FORK THIS REPOSITORY𐃁
+### 1. FORK THIS REPOSITORY 🚀
 
 `FORK AND STAR ⭐ IF YOU LIKE THIS BOT`
 
   <a href="https://github.com/tharusha-md777/THARUSHA-MD-V1/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
-### 2. 𐃁GET SESSION ID𐃁 
+### 2. GET SESSION ID 🤝
 
 <a href='https://tharushamd.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
@@ -52,6 +52,6 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 
-# THANK FOR VISIT GIT HUB REPO ❤️‍🔥
+## THANK FOR VISIT GIT HUB REPO ❤️‍🔥
 
 ------
