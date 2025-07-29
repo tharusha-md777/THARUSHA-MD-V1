@@ -3,7 +3,7 @@
 <a>
 
 <div align="center">
-  <a><img src='https://i.ibb.co/nsRTY8vq/2788.jpg'/></a>
+  <a><img src='https://i.ibb.co/PvcJxXpF/Tharusha-Md.jpg'/></a>
 <a><img 
 </div>
 
