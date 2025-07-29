@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharusha-md777&label=Profile%20views&color=0e75b6&style=flat" alt="tharushamd" /> </p>
 
-> **PAIRiNG LINK (01)**
+**PAIRiNG LINK (01)**
   <a href='https://replit.com/@menadimd/THARUSHA-MD-SESSION-V2' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
